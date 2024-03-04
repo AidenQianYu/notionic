@@ -2,7 +2,7 @@ const BLOG = {
   title: 'AQian',
   author: 'Aiden',
   email: 'aqian761@gmail.com',
-  link: 'https://qianyu.blog',
+  link: 'https://notionic-mxzm70w0q-aidenqianyu.vercel.app',
   //newsletter: 'Notionic Weekly',
   description: 'A static blog build on top of Notion and Next.js',
   lang: 'zh-CN', // [ 'zh-CN','en-US', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -67,10 +67,10 @@ const BLOG = {
   },
   comment: {
     // support provider: utterances, supacomments
-    provider: '', // leave it empty if you don't need any comment plugin
+    provider: 'supacomments', // leave it empty if you don't need any comment plugin
     supaCommentsConfig: {
-      supabaseUrl: '', // The url of your Supabase instance
-      supabaseAnonKey: '' // The anonymous key of your Supabase instance
+      supabaseUrl: 'https://nlcakxrokvetazwtxhjo.supabase.co', // The url of your Supabase instance
+      supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5sY2FreHJva3ZldGF6d3R4aGpvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDk1NjQ1NTYsImV4cCI6MjAyNTE0MDU1Nn0.d2WjmkSrgPinHtu91P0feWWwcar3KHkQ0ts1lGmJHQ4' // The anonymous key of your Supabase instance
     },
     utterancesConfig: {
       repo: ''
