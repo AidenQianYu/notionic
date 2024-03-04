@@ -16,22 +16,22 @@ const BLOG = {
   postsPerPage: 10,
   sortByDate: true,
   pagesShow: {
+    projects: true,
     newsletter: true,
     notes: true,
-    projects: true,
     contact: false,
     books: false,
     friends: false
   },
-  showWeChatPay: true,
+  showWeChatPay: false,
   previewImagesEnabled: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateHost: 'og-zl.vercel.app', // The link to generate OG image, don't end with a slash
   defaultCover: '/cover.jpg',
   socialLink: {
-    twitter: 'https://twitter.com/izuolan',
+    twitter: '',
     github: 'https://github.com/AidenQianYu',
-    telegram: 'https://t.me/zuolan'
+    telegram: ''
   },
   seo: {
     keywords: ['Human-computer Interaction', 'Product Manager', 'SEUer'],
