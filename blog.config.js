@@ -18,7 +18,7 @@ const BLOG = {
   pagesShow: {
     projects: true,
     newsletter: true,
-    notes: true,
+    notes: false,
     contact: false,
     books: false,
     friends: false
