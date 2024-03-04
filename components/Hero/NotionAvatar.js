@@ -5,8 +5,8 @@ const SvgComponent = (props) => (
     width={609}
     height={609}
     style={{
-      width: "487.5px",
-      height: "487.5px",
+      width: "300px",
+      height: "300px",
       justifyContent: "center",
       alignSelf: "center",
       transform: "scale(-1,1)",
