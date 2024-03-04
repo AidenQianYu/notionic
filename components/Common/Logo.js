@@ -4,8 +4,8 @@ import * as React from 'react'
 const Logo = (props) => (
   <svg
     xmlns='file:///D:/Doc/Personal/Web/favicon.svg'
-    width='24'
-    height='24'
+    width='36'
+    height='36'
     viewBox='0 0 100 100'
     style={{
       opacity: 1
