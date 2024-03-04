@@ -2,7 +2,7 @@ const BLOG = {
   title: 'AQian',
   author: 'Aiden',
   email: '1426282340@qq.com',
-  //link: 'https://zuolan.me',
+  link: 'https://qianyu.blog',
   //newsletter: 'Notionic Weekly',
   description: 'A static blog build on top of Notion and Next.js',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
