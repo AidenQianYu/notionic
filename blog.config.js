@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'AQian',
+  title: 'AQian|Rest at the last, not in the middle',
   author: 'Aiden',
   email: 'aqian761@gmail.com',
   link: 'https://notionic-88pnnhaby-aidenqianyu.vercel.app/',
