@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'AQian's X',
+  title: 'AQian',
   author: 'Aiden',
   email: '1426282340@qq.com',
   //link: 'https://zuolan.me',
