@@ -3,7 +3,7 @@ import * as React from 'react'
 
 const Logo = (props) => (
   <svg
-    xmlns='file:///D:/Doc/Personal/Web/favicon.svg'
+    xmlns='http://www.w3.org/2000/svg'
     width='36'
     height='36'
     viewBox='0 0 100 100'
