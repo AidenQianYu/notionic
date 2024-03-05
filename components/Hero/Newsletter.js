@@ -36,7 +36,7 @@ const NewsletterHero = ({ blockMap }) => {
           <CubeTransparentIcon className='object-cover object-center text-gray-500 dark:text-gray-300' />
          </div>
       </div>
-    <>
+
 
 
   )
