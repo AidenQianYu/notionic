@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'AQian | Rest at the last, not in the middle',
+  title: 'AQian',
   author: 'Aiden',
   email: 'aqian761@gmail.com',
   link: 'https://qianyu.blog',
