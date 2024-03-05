@@ -4,7 +4,7 @@ const BLOG = {
   email: 'aqian761@gmail.com',
   link: 'https://qianyu.blog',
   //newsletter: 'Notionic Weekly',
-  //description: '',
+  description: 'Rest at the last, not in the middle',
   lang: 'zh-CN', // [ 'zh-CN','en-US', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
