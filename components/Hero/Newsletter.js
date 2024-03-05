@@ -40,6 +40,5 @@ const NewsletterHero = ({ blockMap }) => {
 
 
   )
-}
 
 export default NewsletterHero
