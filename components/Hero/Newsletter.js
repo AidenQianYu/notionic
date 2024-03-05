@@ -4,7 +4,7 @@ import Social from '../Common/Social.js'
 import { useState } from 'react'
 import { lang } from '@/lib/lang'
 import { useRouter } from 'next/router'
-import { NewspaperIcon, ClipboardCheckIcon } from '@heroicons/react/outline'
+import { CubeTransparentIcon, ClipboardCheckIcon } from '@heroicons/react/outline'
 import NotionRenderer from '@/components/Post/NotionRenderer'
 
 const NewsletterHero = ({ blockMap }) => {
@@ -93,7 +93,7 @@ const NewsletterHero = ({ blockMap }) => {
           </div>
         </div>
         <div className='w-1/5'>
-          <NewspaperIcon className='object-cover object-center text-gray-300 dark:text-gray-200' />
+          <CubeTransparentIcon className='object-cover object-center text-gray-500 dark:text-gray-300' />
         </div>
       </div>
     </>
