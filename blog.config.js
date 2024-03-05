@@ -2,7 +2,7 @@ const BLOG = {
   title: 'AQian|Rest at the last, not in the middle',
   author: 'Aiden',
   email: 'aqian761@gmail.com',
-  link: 'https://notionic-88pnnhaby-aidenqianyu.vercel.app/',
+  link: 'https://qianyu.blog/',
   //newsletter: 'Notionic Weekly',
   description: 'A static blog build on top of Notion and Next.js',
   lang: 'zh-CN', // [ 'zh-CN','en-US', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
