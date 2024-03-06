@@ -7,7 +7,7 @@ import {
   UsersIcon,
   BookOpenIcon,
   MailIcon,
-  CommandLineIcon
+  BanknotesIcon
 } from '@heroicons/react/outline'
 import Social from '../Common/Social.js'
 import { motion } from 'framer-motion'
@@ -61,7 +61,7 @@ const Footer = ({ fullWidth }) => {
       id:4,
       name:t.NAV.RECORDS,
       to: '/records',
-      icon: <CommandLineIcon className='inline-block mb-1 h-5 w-5' />,
+      icon: <BanknotesIcon className='inline-block mb-1 h-5 w-5' />,
       show: BLOG.pagesShow.records
     }
   ]
